@@ -1,6 +1,10 @@
 <?php 
 
-echo "VARIAVEIS STRING, string (texto)";
+echo "VARIAVEIS atribuidas em PHP 8 <br>"; 
+echo "<br>"; 
+echo "VARIAVEIS NOMES - na definição dos nomes de variáveis é importante colocar aspas, quando são string (texto)";
+echo "<br>";
+echo "VARIAVEIS NOMES - na definição dos nomes de variáveis é importante saber que faz diferença letras maiusculas e minusculas";
 echo "<br>";
 echo '$nome = "Joaquim";';
 echo "<br>";
