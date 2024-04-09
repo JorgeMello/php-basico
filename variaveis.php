@@ -14,3 +14,7 @@ $age = 20;
 echo $name; // Guilherme
 echo "</br>";
 echo $age; // 20
+
+$a = "mundo!";
+echo "Olá, $a"; // Olá, mundo!
+echo 'Olá, $a'; // Olá, $a
