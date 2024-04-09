@@ -17,3 +17,12 @@ echo "<br>";
 echo 'const HOST = "localhost"; <br>';
 const HOST = "localhost";
 echo HOST;
+
+
+define("PHP", "Linguagem Open - Source");
+
+const HTML = "Linguagem de marcação";
+
+echo PHP; // Linguagem Open - Source
+
+echo HTML; // Linguagem de marcação
